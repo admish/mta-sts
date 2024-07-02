@@ -1,1 +1,1 @@
-Hosting for `.well-known/mta-sts.txt` policy file
+Repository for hosting MTA-STS `.well-known/mta-sts.txt` on GitHub
